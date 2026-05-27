@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "LAB8_STARTER",
+    "short_name": "Anlisa Liu",
+    "description": "wensite with recipe cards",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "background_color": "orange",
+    "theme_color": "pink",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
